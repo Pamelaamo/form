@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(207, 93, 203, 0.397);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+fieldset {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#botao {
+    text-align: center;
+    
+}
